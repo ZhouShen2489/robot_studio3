@@ -1,10 +1,14 @@
 attrs==21.4.0
+cloudpickle==2.0.0
+gym==0.23.1
+gym-notices==0.0.6
 iniconfig==1.1.1
 numpy==1.22.3
 packaging==21.3
 pandas==1.4.2
 pluggy==1.0.0
 py==1.11.0
+pybullet==3.2.4
 pylx16a==1.1.1
 pyparsing==3.0.8
 PyQt6==6.3.0
